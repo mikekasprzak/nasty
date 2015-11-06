@@ -1,2 +1,2 @@
 # nasty
-Stub for nasty.
+this stub is nasty.

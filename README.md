@@ -1,2 +1,2 @@
 # nasty
-Nasty (Programming Language)
+Stub for nasty.
